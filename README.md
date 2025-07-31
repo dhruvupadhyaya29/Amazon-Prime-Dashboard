@@ -80,4 +80,5 @@ Historical Growth: Understand Prime's content evolution over time.
 
 
 Screenshots / Demos
-Show what the dashboard looks like. - 
+Show what the dashboard looks like. - <img width="1512" height="743" alt="Amazon Prime Dashboard image" src="https://github.com/user-attachments/assets/0659f398-57cd-47a7-bb09-ac6d470b9fe1" />
+
